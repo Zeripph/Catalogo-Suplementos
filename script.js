@@ -148,7 +148,7 @@ checkoutBtn.addEventListener("click", function(){
     if(!isOpen){
         
         Toastify({
-    text: "Ops o restaurante está fechado",
+    text: "Ops, A (Nome da Loja) está fechada",
     duration: 3000,
     close: true,
     gravity: "top", // `top` or `bottom`
